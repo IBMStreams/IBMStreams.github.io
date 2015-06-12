@@ -1,0 +1,15 @@
+---
+title: Healthcare
+subtitle: Smarter Care
+layout: default
+modal-id: 2
+date: 2014-07-17
+imgURL: https://www.youtube.com/embed/f-dfWLaDBPE?rel=0
+thumbnail: healthcare.PNG
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Healthcare worldwide is in crisis - high costs, poor or inconsistent quality, and inaccessibility are potentially catastrophic. While there is no limit to the amount of data continuously being generated in provider organizations, some lack a way to analyze and correlate the data in real time. IBM Stream Computing enables predictive analytics of data in motion for real-time decisions allowing healthcare providers to capture and analyze data - all the time, just in time. The end goal is to save lives, shorten hospital stays and build healthier communities revolving around preventative care.
+
+---

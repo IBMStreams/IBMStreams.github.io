@@ -1,0 +1,33 @@
+ <!-- Portfolio Modals -->
+<div class="portfolio-modal modal fade" id="resiliency" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>Resiliency</h2>
+                        <hr class="star-primary">
+                            <div class="resiliencyText"> 
+                                <h3>What happens when a node goes down?</h3>
+                                <p>The controller service will automatically restart processing elements and services on the other Streams hosts. If a node configured for High Availability comes back online, services will be automatically restarted.</p>
+                                <h3>Will I lose data if a node goes down?</h3>
+                                <p>In Streams 4.0, we introduced consistent regions, which enables an application to guarantee that all data is processed in that region. Consistent regions are enabled using a simple annotation (@consistent) and HA compliant operators. <a href="https://developer.ibm.com/streamsdev/2015/02/20/processing-tuples-least-infosphere-streams-consistent-regions/">Read more about consistent regions</a>.</p>
+                                <h3>What happens if an Application Processing Element fails?</h3>
+                                <p>Failures are detected and Processing Elements (PEs) are automatically restarted by the controller service. If needed, the PE will be relocated to a new host.</p>
+                                <h3>How do I configure High Availability?</h3>
+                                <p>Most HA features, such as automatic service and PE restarts, are enabled by default. You can <a href="https://developer.ibm.com/streamsdev/docs/streams-4-0-enterprise-install-and-setup-videos/">read configuration documentation here</a> or watch <a href="https://developer.ibm.com/streamsdev/docs/streams-4-0-enterprise-install-and-setup-videos/">Step 4 in our "Setting up an Enterprise Streams Environment" video series</a>.</p>
+                            </div>
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

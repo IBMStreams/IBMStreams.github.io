@@ -1,0 +1,29 @@
+url: http://alex-cook4.github.io
+baseurl: 
+
+# Site settings
+title: IBM Streams
+description: "The Age of Analytics has begun. When you need answers now, IBM Streams is your solution."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: fed136
+  secondary: fec503  
+  secondary-dark: 333
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/hashtag/ibmstreams
+  - title: bolt
+    url: https://developer.ibm.com/streamsdev/
+  - title: github
+    url: http://github.com/ibmstreams
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+detach:  false
+port:    4000
+host:    10.6.24.143
