@@ -240,7 +240,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .icon:visited {
-    color: white !important;
+    /*color: white !important;*/
 }
 
 .exploreImage {
