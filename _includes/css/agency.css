@@ -385,6 +385,18 @@ header .intro-text .intro-heading {
    -webkit-text-stroke-color: black;
 }
 
+#mainLogo{
+    width:45% !important;
+}
+
+@media(max-device-width: 489px){
+
+    .navbar-secondary {
+        font-size: 80% !important;
+    }
+}
+
+
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 200px;
