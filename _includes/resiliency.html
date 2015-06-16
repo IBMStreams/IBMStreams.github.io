@@ -16,9 +16,9 @@
                             <div class="resiliencyText"> 
                                 <h3>How resilient is Streams?</h3>
                                 <p>We have customers that have been running for over 2 years without downtime, and that was before we introduced high availability. If systems go down, Streams self-heals while Guaranteed Tuple Processing makes sure that no data is lost. Streams provides enterprise resiliency with simple set-up and configuration.</p>
-                                <h3>What happens when a node goes down?</h3>
-                                <p>The controller service will automatically restart processing elements and services on the other Streams hosts. If a node configured for High Availability comes back online, services will be automatically restarted.</p>
-                                <h3>Will I lose data if a node goes down?</h3>
+                                <h3>What happens when a Streams host goes down?</h3>
+                                <p>The controller service will automatically restart processing elements and services on the other Streams hosts. If a host configured for High Availability comes back online, services will be automatically restarted.</p>
+                                <h3>Will I lose data if a Streams host goes down?</h3>
                                 <p>In Streams 4.0, we introduced consistent regions, which not only guarantees that the application does not lose data, but, in most cases, ensures that each incoming record is processed exactly once. Consistent regions are enabled using a simple annotation (@consistent) and HA compliant operators. <a href="https://developer.ibm.com/streamsdev/2015/02/20/processing-tuples-least-infosphere-streams-consistent-regions/">Read more about consistent regions</a>.</p>
                                 <h3>What happens if an Application Processing Element fails?</h3>
                                 <p>Failures are detected and Processing Elements (PEs) are automatically restarted by the controller service. If needed, the PE will be relocated to a new host.</p>
