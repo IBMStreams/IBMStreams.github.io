@@ -1,5 +1,5 @@
 url: http://ibmstreams.github.io/
-baseurl:
+baseurl: 
 
 # Site settings
 title: IBM Streams
@@ -8,7 +8,7 @@ description: "The Age of Analytics has begun. When you need answers NOW, IBM Str
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: fed136
-  secondary: fec503
+  secondary: fec503  
   secondary-dark: 333
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -26,4 +26,4 @@ markdown: kramdown
 permalink: pretty
 detach:  false
 port:    4000
-host:    127.0.0.1
+host:    10.6.24.143
