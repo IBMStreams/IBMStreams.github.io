@@ -1,14 +1,14 @@
 ---
-title: Internet of Things
-subtitle: Smarter Connections
+title: Build Apps in Minutes
+subtitle: Building Apps in the Streams Studio IDE
 layout: default
 modal-id: 3
 date: 2014-07-16
-imgURL: https://www.youtube.com/embed/sfEbMV295Kk?rel=0
-thumbnail: iot.PNG
+imgURL: https://www.youtube.com/embed/ir_nUv4maL4
+thumbnail: StudioThumbnail.PNG
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Increased globalization, sophisticated consumers demanding more innovative and sustainable vehicles, self-driving and connected cars, and growing regulatory and environmental requirements are putting unprecedented pressure on existing business and manufacturing models. In fact, some plug-in hybrid vehicles generate 25 GB of data in just one hour. IBM Stream Computing can help transform the industry by enabling predictive analytics of data in motion for real-time decisions allowing the automotive industry and its ecosystem to capture and analyze data - all the time, just in time.
+description: IBM Streams Software Engineer Alex Cook walks you through how to build and monitor streaming applications in a visual and integrated development environment. See how to develop a full streaming application in minutes. 
 ---
