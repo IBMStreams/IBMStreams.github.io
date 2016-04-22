@@ -1,11 +1,11 @@
 ---
-title: Telecommunications
-subtitle: Smarter Telco
+title: IBM Streams Introduction
+subtitle: Learn Streams in 5 minutes
 layout: default
 modal-id: 1
 date: 2014-07-18
-imgURL: https://www.youtube.com/embed/wsBozjMVDJ8?rel=0
-thumbnail: telco.PNG
+imgURL: https://www.youtube.com/embed/HLHGRy7Hif4
+thumbnail: IntroToStreamsThumbnail.PNG
 alt: image-alt
-description: Fueled by rapid adoption in developing countries, mobile communications have become the industry's highest priority and are fueling rapid changes. The rapid emergence of smart phones and 3G/4G networks has resulted in wide spread SMS usage, cell phone based internet access and more wireless phone calls. The influx of data could be overwhelming, but smart telecommunications providers are turning this data into actionable insight. IBM Stream Computing enables predictive analytics of data in motion for real-time decisions allowing telecommunications to capture and analyze data - all the time, just in time. 
+description: IBM Streams Software Engineer Alex Cook walks you through a technical overview of IBM Streams. Explore how to capture data streams and analyze them faster with IBM Streams.
 ---
