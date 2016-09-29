@@ -1,5 +1,5 @@
 url: http://ibmstreams.github.io/
-baseurl:
+baseurl: /ibmstreams
 
 # Site settings
 title: IBM Streams
