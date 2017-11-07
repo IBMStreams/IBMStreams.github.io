@@ -2,7 +2,7 @@
 title: Build Apps in Minutes
 subtitle: Building Apps in the Streams Studio IDE
 layout: default
-modal-id: 3
+modal-id: 4
 date: 2014-07-16
 imgURL: https://www.youtube.com/embed/ir_nUv4maL4
 thumbnail: StudioThumbnail.PNG
@@ -10,5 +10,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: IBM Streams Software Engineer Alex Cook walks you through how to build and monitor streaming applications in a visual and integrated development environment. See how to develop a full streaming application in minutes. 
+description: IBM Streams Software Engineer Alex Cook walks you through how to build and monitor streaming applications in a visual and integrated development environment. See how to develop a full streaming application in minutes.
 ---
