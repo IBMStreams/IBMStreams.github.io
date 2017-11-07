@@ -2,7 +2,7 @@
 title: IBM Streams Introduction
 subtitle: Learn Streams in 5 minutes
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2014-07-18
 imgURL: https://www.youtube.com/embed/HLHGRy7Hif4
 thumbnail: IntroToStreamsThumbnail.PNG
