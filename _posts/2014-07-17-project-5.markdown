@@ -2,7 +2,7 @@
 title: IBM Streams + Excel
 subtitle: Streaming Data in Microsoft Excel
 layout: default
-modal-id: 4
+modal-id: 5
 date: 2014-07-17
 imgURL: https://www.youtube.com/embed/8hzMXFBw7ns
 thumbnail: StreamsExcelThumbnail.PNG
