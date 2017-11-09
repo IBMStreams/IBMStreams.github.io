@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2017-11-07
 imgURL: https://www.youtube.com/embed/PDTSws6zULI
-thumbnail: DSXVideoThumb.PNG
+thumbnail: DSXVideoThumb.png
 alt: image-alt
 project-date: Nov 2017
 description:  In this video, you can see a Streams application analyzing data from IoT devices. The application is created in a Python notebook on the IBM Data Science Experience and executed in the Streaming Analytics service on the IBM Cloud. The results of the application are displayed on a map embedded in the notebook.  Try the notebook for yourself at https://ibm.biz/WeatherNotebook.
