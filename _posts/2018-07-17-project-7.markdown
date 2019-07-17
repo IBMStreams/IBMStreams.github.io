@@ -1,0 +1,9 @@
+---
+title: Scale Stream Applications at Runtime
+subtitle: Scale Streams apps at runtime to improve performance.
+layout: default
+date: 2018-07-18
+imgURL: https://www.youtube.com/embed/oUB24W5gxOs
+thumbnail: ScaleStreamsThumbnail.png
+modal-id: 7
+---

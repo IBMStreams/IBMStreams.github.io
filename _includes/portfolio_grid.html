@@ -8,22 +8,34 @@
                 </div>
             </div>
             <div class="row">
-            {% for post in site.posts %}
-                <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
+
+            {% assign var = site.posts.size | divided_by: 3.0 | ceil | minus: 1 %}
+
+            {% for i in (0 .. var) %}
+
+                <div class="row">{% for j in (0 .. 2) %}
+
+                    {% assign postNumber = 3 | times: i | plus: j %}
+                    {% if postNumber < site.posts.size %}
+                        <div class="col-md-4 col-sm-4 portfolio-item">
+                            <a href="#portfolioModal{{ site.posts[postNumber].modal-id }}" class="portfolio-link" data-toggle="modal">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-content">
+                                        <i class="fa fa-plus fa-3x"></i>
+                                    </div>
+                                </div>
+                                <img src="img/portfolio/{{ site.posts[postNumber].thumbnail }}" class="img-responsive" alt="">
+                            </a>
+                            <div class="portfolio-caption">
+                                <h4>{{ site.posts[postNumber].title }}</h4>
+                                <br>
+                                <p class="text-muted">{{ site.posts[postNumber].subtitle }}</p>
                             </div>
                         </div>
-                        <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>{{ post.title }}</h4>
-                        <br>
-                        <p class="text-muted">{{ post.subtitle }}</p>
-                    </div>
-                </div>
+                    {% endif %}
+
+                {% endfor %}</div>
+
             {% endfor %}
             </div>
         </div>

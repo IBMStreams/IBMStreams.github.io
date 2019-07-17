@@ -1,0 +1,9 @@
+---
+title: ICP4D, Streaming Analytics in Python
+subtitle: See how to create an application that computes the rolling average of streaming data from a Python notebook.
+layout: default
+date: 2018-07-17
+imgURL: https://www.youtube.com/embed/EZ3DCacHwUM
+thumbnail: Icp4dPythonThumbnail.png
+modal-id: 10
+---
