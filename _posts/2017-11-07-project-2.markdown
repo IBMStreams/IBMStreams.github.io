@@ -1,6 +1,6 @@
 ---
 title: Streaming Analytics in Python Demo
-subtitle: Create a Streams application in IBM Watson Studio Science Experience
+subtitle: Create a Streams application in IBM Watson Studio
 layout: default
 modal-id: 2
 date: 2017-11-07
