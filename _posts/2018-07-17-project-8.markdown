@@ -1,0 +1,9 @@
+---
+title: Compute Averages Using Time Based Windows
+subtitle: This video demonstrates how to calculate time-based rolling averages on streaming data.
+layout: default
+date: 2018-07-17
+imgURL: https://www.youtube.com/embed/fZ_xiq4wEt4
+thumbnail: ComputeAveragesThumbnail.png
+modal-id: 8
+---

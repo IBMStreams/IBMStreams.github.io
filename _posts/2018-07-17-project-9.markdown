@@ -1,0 +1,9 @@
+---
+title: Monitor Applications and Finding Errors Using Streams Console
+subtitle: This video demonstrates how to use the Streams Console to monitor a running Streams job.
+layout: default
+date: 2018-07-17
+imgURL: https://www.youtube.com/embed/SNdulyR3__U
+thumbnail: MonitorConsoleThumbnail.png
+modal-id: 9
+---

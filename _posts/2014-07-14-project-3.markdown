@@ -1,6 +1,6 @@
 ---
-title: IBM Streaming Analytics on Bluemix
-subtitle: Deploying Apps on Bluemix
+title: IBM Streaming Analytics on IBM Cloud
+subtitle: Deploying Apps on IBM Cloud
 layout: default
 modal-id: 3
 date: 2014-07-18
@@ -10,5 +10,5 @@ alt: image-alt
 project-date: April 2017
 client: Start Bootstrap
 category: Web Development
-description: If you are new to Streams and/or to the Streaming Analytics service on Bluemix, this video is a great way to get started using the stock trades starter application. This is a simple application that analyzes stock quotes and computes the rolling average price for each company.
+description: If you are new to Streams and/or to the Streaming Analytics service on IBM Cloud, this video is a great way to get started using the stock trades starter application. This is a simple application that analyzes stock quotes and computes the rolling average price for each company.
 ---

@@ -1,0 +1,10 @@
+---
+title: Streaming Analytics in IBM Cloud Pak for Data
+subtitle: See how to create a Python application to compute the rolling average of streaming data from a notebook.
+layout: default
+date: 2018-07-17
+imgURL: https://www.youtube.com/embed/EZ3DCacHwUM
+thumbnail: Icp4dPythonThumbnail.png
+modal-id: 10
+description: This sample notebook is included in IBM Cloud Pak for Data. The video walks you through creating the Streams application in Python, executing it on the Streams instance, and visualizing the results.
+---

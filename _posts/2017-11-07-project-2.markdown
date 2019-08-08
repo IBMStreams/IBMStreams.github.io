@@ -1,6 +1,6 @@
 ---
 title: Streaming Analytics in Python Demo
-subtitle: Create a Streams application in the IBM Data Science Experience
+subtitle: Create a Streams application in IBM Watson Studio
 layout: default
 modal-id: 2
 date: 2017-11-07
@@ -8,5 +8,5 @@ imgURL: https://www.youtube.com/embed/PDTSws6zULI
 thumbnail: DSXVideoThumb.png
 alt: image-alt
 project-date: November 2017
-description:  In this video, you can see a Streams application analyzing data from IoT devices. The application is created in a Python notebook on the IBM Data Science Experience and executed in the Streaming Analytics service on the IBM Cloud. The results of the application are displayed on a map embedded in the notebook.  Try the notebook for yourself at https://ibm.biz/WeatherNotebook.
+description:  In this video, you can see a Streams application analyzing data from IoT devices. The application is created in a Python notebook on IBM Watson Studio and executed in the Streaming Analytics service on the IBM Cloud. The results of the application are displayed on a map embedded in the notebook.  Try the notebook for yourself at https://ibm.biz/WeatherNotebook.
 ---
