@@ -1,10 +1,10 @@
 ---
 title: Sugar.IQ&trade; Diabetes Assistant
-subtitle: Get personalized insights with the Sugar.IQ&trade diabetes assistant.
+subtitle: Managing diabetes is easier using the Sugar.IQ&trade; diabetes assistant, backed by Streams.
 layout: default
 modal-id: 6
 date: 2018-07-17
 imgURL: https://www.youtube.com/embed/urV6E_L3fH4
 thumbnail: SugarIQDiabetesAssistantThumbnail.jpg
-description: Get personalized insights with the Sugar.IQ&trade diabetes assistant, exclusively available to people on multiple daily injections using the Guardian&trade; Connect CGM.
+description: Sugar.IQ app provides personalized insights for people with diabetes, and Streams is one of the technologies it uses.
 ---
