@@ -1,6 +1,6 @@
 ---
-title: ICP4D, Streaming Analytics in Python
-subtitle: See how to create an application that computes the rolling average of streaming data from a Python notebook.
+title: Streaming Analytics in IBM Cloud Pak for Data
+subtitle: See how to create a Python application to computes the rolling average of streaming data from a notebook.
 layout: default
 date: 2018-07-17
 imgURL: https://www.youtube.com/embed/EZ3DCacHwUM
