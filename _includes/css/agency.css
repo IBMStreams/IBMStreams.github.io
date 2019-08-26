@@ -333,11 +333,11 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;
-    } 
-    
+    }
+
     .navbar-default.navbar-shrink .navbar-secondary {
-    
-        
+
+
     }
 }
 
@@ -355,12 +355,13 @@ header {
 }
 
 header .intro-text {
-    padding-top: 100px;
-    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-bottom: 10px;
 }
 
+
 header .intro-text .intro-lead-in {
-    margin-bottom: 25px;
+    margin-bottom: 10px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 22px;
     font-style: italic;
@@ -369,24 +370,20 @@ header .intro-text .intro-lead-in {
     /*-webkit-text-fill-color: #484848;
     -webkit-text-stroke-width: 1px;
    -webkit-text-stroke-color: #fed136;*/
-    
+
 }
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
-    text-transform: uppercase;
     font-family: Times,Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 150px;
     font-weight: 700;
     line-height: 50px;
-    color: black;
-    -webkit-text-fill-color: white;
     -webkit-text-stroke-width: 0.5px;
-   -webkit-text-stroke-color: black;
 }
 
 #mainLogo{
-    width:45% !important;
+    width:50% !important;
 }
 
 .videoWrapper {
@@ -408,7 +405,7 @@ header .intro-text .intro-heading {
     .navbar-secondary {
         font-size: 80% !important;
     }
-    
+
     .portfolio-modal .modal-content h2 {
       margin-bottom: 15px;
       font-size: 20px !important;
@@ -419,26 +416,22 @@ header .intro-text .intro-heading {
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 200px;
-        padding-bottom: 200px;
+        padding-bottom: 20px;
     }
 
     header .intro-text .intro-lead-in {
-        margin-bottom: 25px;
+        margin-bottom: 15px;
         font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 40px;
         font-style: italic;
         line-height: 40px;
     }
 
-    header .intro-text .intro-heading {
-        margin-bottom: 50px;
-        text-transform: uppercase;
-        font-family: nyt-mag-slab, georgia, 'times new roman', times, serif;
-        font-size: 550%;
-        font-weight: 700;
-        line-height: 75px;
-
-        
+    header .intro-text .intro-heading .video-title{
+        margin-bottom: 10px;
+        font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 20px;
+        color: #fec136;
     }
 }
 
@@ -517,6 +510,10 @@ section h3.section-subheading {
     section {
         padding: 150px 0;
     }
+    #WhatsNew {
+        padding: 80px 0;
+      }
+
 }
 
 .service-heading {
